@@ -17,7 +17,7 @@ The results were displayed per individual ticker in the "All Stocks Sheet" as ti
 
 
 # Summary 
-In summary the analysis conducted provided easy to use information with visual aids that clearly show a stocks percentage of return. The information will assist Steve and his family in making an informed decision prior to investing. The code can be repurposed and used for any upcoming years with minor modification. 
+In summary the analysis conducted provided easy to use information with visual aids that clearly show a stocks percentage of return. The information will assist Steve and his family in making an informed decision prior to investing. The code can be repurposed and used for any upcoming years with minor modifications.
 
 **Advantages of refactoring code**    
 Refactoring a code makes a code faster. It helps reduce the chances of creating mistakes by adding loops and eliminating duplicate code. It reduces the size making it overall more efficient and easier to run.   
