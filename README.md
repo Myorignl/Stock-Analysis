@@ -12,6 +12,10 @@ To analyze the data a Macros was created following the steps provided. The Macro
 ## Results
 The results were displayed per individual ticker in the "All Stocks Sheet" as tickers, total daily volume, and return. The use of input boxes provide a text field where the year can be entered and the data for the year is displayed. Added formatting provides color coding of stock percentages based on their value. This helps to clearly identify which stocks fared best. Once Refactoring was completed a timer was added to measure the speed in which the code ran. Adding the timer shows that refactoring increases the speed of computation for both data sets by .29. 
 
+![image](https://user-images.githubusercontent.com/104601282/175348843-8595f0bd-1584-4169-9f31-f390c217014e.png)
+
+
+
 # Summary 
 In summary the analysis conducted provided easy to use information with visual aids that clearly show a stocks percentage of return. The information will assist Steve and his family in making an informed decision prior to investing. The code can be repurposed and used for any upcoming years with minor modification. 
 
