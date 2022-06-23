@@ -22,7 +22,7 @@ In summary the analysis conducted provided easy to use information with visual a
 **Advantages of refactoring code**    
 Refactoring a code makes a code faster. It helps reduce the chances of creating mistakes by adding loops and eliminating duplicate code. It reduces the size making it overall more efficient and easier to run.   
 **Disadvantages of refactoring code**   
-The only disadvantage that I can see in refactoring is the time commitment it requires. I am sure that as we continue to learn it will become easier but it was time consuming.
+The only disadvantage that I can see in refactoring is the time commitment it requires. I am sure that as we continue to learn it will become easier however, it was time consuming.
 
 
 
